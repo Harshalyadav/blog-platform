@@ -45,6 +45,8 @@ The goal of this project was to build a full-stack blogging application with:
 
 ---
 
+## ⚙️ Demo Video
+https://drive.google.com/file/d/1e9y5c1Qh5LZSYO0Z5ewO0727YI7Mr12A/view?usp=drive_link
 ## ⚙️ Setup Instructions
 
 ### 📁 Clone the repositories
@@ -52,6 +54,4 @@ The goal of this project was to build a full-stack blogging application with:
 ```bash
 git clone https://github.com/Harshalyadav/blog-platform
 
-## ⚙️ Demo Video
-https://drive.google.com/file/d/1e9y5c1Qh5LZSYO0Z5ewO0727YI7Mr12A/view?usp=drive_link
 
